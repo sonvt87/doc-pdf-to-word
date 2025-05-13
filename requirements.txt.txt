@@ -1,2 +1,7 @@
 streamlit
 PyMuPDF
+pytesseract
+python-docx
+Pillow
+language-tool-python
+pyperclip
